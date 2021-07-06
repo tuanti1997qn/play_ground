@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/tuanti1997qn/go_hello_world/handlers"
+	"github.com/tuanti1997qn/play_ground/pkg/handlers"
 )
 
 const Portnumer = ":8080"
